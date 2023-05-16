@@ -6,6 +6,8 @@ public class loginpage {
 
 		
 		System.out.println("LoginPage");
+		
+		System.out.println("LPTESTS feature");
 	}
 
 }
