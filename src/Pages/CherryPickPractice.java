@@ -7,5 +7,10 @@ public class CherryPickPractice {
 		String name ="Aditya";
 		
 	}
+	
+	void shopping()
+	{
+		System.out.println("shopping");
+	}
 
 }
