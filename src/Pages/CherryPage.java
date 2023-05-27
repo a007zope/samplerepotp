@@ -8,4 +8,9 @@ public class CherryPage {
 	String name ="Aditya";
 
 	}
+	
+	public void test1()
+	{
+		
+	}
 }
