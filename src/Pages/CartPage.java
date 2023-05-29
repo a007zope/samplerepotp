@@ -10,6 +10,7 @@ public class CartPage {
 		String NameOfPerson ="Aditya123";
 		String surName ="Zope";
 		int salary = 100;
+		String companyName = "Capgemini";
 
 	}
 
