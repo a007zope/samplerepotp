@@ -10,7 +10,7 @@ public class LoginPageCommit {
 	
 	public void loginpage(String dev2)
 	{
-		String dev2 ="Dev2RemoteChanges";
+	 dev2 ="Dev2RemoteChanges";
          System.out.println();
 
 }
