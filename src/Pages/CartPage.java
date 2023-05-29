@@ -9,8 +9,14 @@ public class CartPage {
 		String name ="cartpageSelectedForCheeryPIck";
 		String NameOfPerson ="Aditya123";
 		String surName ="Zope";
-		
+
 	}
+
+	public void shopping()
+	{
+		System.out.println("Shopping wishlist");
+	}
+
 	public static void main(String[] args) {
 		CartPage c = new CartPage();
 		c.cart();
