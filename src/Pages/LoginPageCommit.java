@@ -11,7 +11,7 @@ public class LoginPageCommit {
 	public void loginpage(String dev2)
 	{
 	 dev2 ="Dev2RemoteChanges";
-         System.out.println();
+         System.out.println(dev2);
 
 }
 }
