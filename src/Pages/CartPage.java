@@ -12,7 +12,11 @@ public class CartPage {
 		int salary = 100;
 		String companyName = "Capgemini";
 		String designation = "Automation Architect";
-
+	}
+	
+	public void timeManagement()
+	{
+		
 	}
 
 	public void shopping()
