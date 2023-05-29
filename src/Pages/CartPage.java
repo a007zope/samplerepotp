@@ -10,7 +10,6 @@ public class CartPage {
 		String NameOfPerson ="Aditya123";
 		String surName ="Zope";
 		
-	
 	}
 	public static void main(String[] args) {
 		CartPage c = new CartPage();
