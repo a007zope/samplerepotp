@@ -6,6 +6,7 @@ public class CherryPage {
 
 		System.out.println("CherryPage");
 	String name ="Aditya";
+	
 
 	}
 	
