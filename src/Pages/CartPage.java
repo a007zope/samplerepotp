@@ -9,6 +9,7 @@ public class CartPage {
 		String name ="cartpageSelectedForCheeryPIck";
 		String NameOfPerson ="Aditya123";
 		String surName ="Zope";
+		int salary = 100;
 
 	}
 
