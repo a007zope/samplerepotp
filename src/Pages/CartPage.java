@@ -15,6 +15,7 @@ public class CartPage {
 	public void shopping()
 	{
 		System.out.println("Shopping wishlist");
+		System.out.println("Aditya's shopping wishlist");
 	}
 
 	public static void main(String[] args) {
