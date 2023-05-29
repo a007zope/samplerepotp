@@ -16,7 +16,7 @@ public class CartPage {
 	
 	public void timeManagement()
 	{
-		
+		System.out.println("Time Scheduled");
 	}
 
 	public void shopping()
