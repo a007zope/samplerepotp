@@ -27,6 +27,7 @@ public class CartPage {
 		CartPage c = new CartPage();
 		c.cart();
 		System.out.println("existing cherrypick successful");
+		System.out.println("existing cherrypick succesfully");
 	}
 
 }
