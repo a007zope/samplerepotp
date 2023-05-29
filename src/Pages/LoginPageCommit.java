@@ -8,10 +8,12 @@ public class LoginPageCommit {
 		System.out.println("localchanges");
 	}
 	
-	public void loginpage(String dev2)
+	public void loginpage(String dev1)
 	{
-	 dev2 ="Dev2RemoteChanges";
-         System.out.println(dev2);
+		dev1 ="Dev1RemoteChanges";
+        System.out.println("the remote changes are"+" "+dev1);
+}
+
 
 }
-}
+
