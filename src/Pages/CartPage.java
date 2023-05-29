@@ -11,6 +11,7 @@ public class CartPage {
 		String surName ="Zope";
 		int salary = 100;
 		String companyName = "Capgemini";
+		String designation = "Automation Architect";
 
 	}
 
