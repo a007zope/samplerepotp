@@ -1,8 +1,11 @@
-public class LoginPage
-{
+package Pages;
+
+public class LoginPage {
+	
 	public void loginPage()
 	{
-	String nameD2 ="loginpage2";
-		System.out.println(nameD2);
+		String nameD1 ="loginpage1";
+		System.out.println(nameD1);
 	}
+
 }
