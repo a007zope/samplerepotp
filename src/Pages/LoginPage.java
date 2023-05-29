@@ -1,4 +1,5 @@
 public void loginPage()
 	{
-		System.out.println("loginpage");
+	String nameD2 ="loginpage2";
+		System.out.println(nameD2);
 	}
