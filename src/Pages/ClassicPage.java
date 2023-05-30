@@ -6,7 +6,9 @@ public class ClassicPage {
 	{
 		int n = 10;
 		int m = 20;
-		int k = n+m;
+		int k = m/n;
 		System.out.println(k);
+    System.out.println("Divsison logic by Remote");
+
 	}	
 }
