@@ -22,6 +22,7 @@ public class ClassicPage {
 	public void master()
 	{
 		System.out.println("hi Master test");
+		int noOfCars =2;
 	}
 
 }
