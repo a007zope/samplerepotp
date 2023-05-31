@@ -17,7 +17,7 @@ public class ClassicPage {
 		int salary = 15;
 		int age = 25;
 		System.out.println("Classic Page of working eclipse IDE");
-
-
+		int h = 10;
 	}	
+
 }
