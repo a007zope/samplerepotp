@@ -10,6 +10,8 @@ public class ClassicPage {
 		System.out.println(k);
     System.out.println("Divsison logic by Remote");
     System.out.println("Accepted remote dev's logic aftre discussion");
+		String name ="Adi";
+	         int sal = 12;
 
 	}	
 }
