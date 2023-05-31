@@ -16,6 +16,7 @@ public class ClassicPage {
 		System.out.println("Classic Page of working eclipse IDE");
 
 		int h = 10;
+		int b =10;
 	}	
 
 	public void master()
