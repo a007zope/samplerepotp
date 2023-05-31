@@ -21,7 +21,7 @@ public class ClassicPage {
 
 	public void master()
 	{
-		System.out.println("hi Master");
+		System.out.println("hi Master test");
 	}
 
 }
