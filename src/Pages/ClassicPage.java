@@ -17,6 +17,7 @@ public class ClassicPage {
 		int h = 10;
 		int b =10;
 		System.out.println("classic2");
+		int adi = 5;
 	}	
 
 	public void master()
